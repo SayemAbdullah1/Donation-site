@@ -1,0 +1,96 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+    font-weight: 700;
+
+}
+
+.header-sec{
+    display: flex;
+    margin-left: 5%;
+    border-bottom: 10%;
+}
+.navigation{
+    
+    margin-top: 7%;
+    margin-left: 20%;
+    
+}
+.navigation ul{
+    
+    
+}
+.navigation ul li{
+    display: inline;
+    
+   
+    
+
+}
+.navigation ul li a{
+    display: inline;
+    text-decoration: none;
+    margin-left: 15px;
+    color: gray;
+    font-weight: 600; 
+    font-size: 17px;  
+}
+.navigation ul li a:hover{
+    color: rgb(17, 140, 255);
+}
+
+#aws{
+    color: rgb(17, 140, 255)
+}
+#org{
+    color: rgb(168, 168, 168);
+}
+.top-banner{
+
+}
+.top-banner {
+    background-image: url(images/top-banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 50px;
+    margin-top: 20px;
+
+
+
+}
+.banner-item {
+    padding-top: 3%;
+}
+.banner-article {
+    width: 21%;
+    text-align: justify;
+    background-color: rgb(91, 83, 83);
+    margin-left: 3%;
+    padding: 40px 20px;
+    border-radius: 8px;
+    background-color: white;
+    /* margin-top: ; */
+    border: 20px 0;
+}
+.banner-article h2{
+    color: rgb(17, 140, 255);
+    font-size: 30px;
+    font-weight: 700;
+
+
+}
+.banner-article p{
+    padding-bottom: 5%;
+}
+.button{
+    font-size: 20px;
+    padding: 10px 30px;
+    background-color: rgb(245, 54, 85);
+    color: white;
+    border-radius: 10px;
+    text-decoration: none;
+
+}
