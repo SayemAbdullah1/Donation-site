@@ -156,3 +156,67 @@ input[type=text] {
 .donate-form{
     padding-bottom: 30px;
 }
+.Donation-plan-sec{
+    margin-bottom: 100px;
+}
+.donation-plan-head{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.Donation-plan-item{
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
+.Donation-plan-list{
+    width: 28%;
+    margin-left: 2%;
+    text-align: justify;
+ 
+    padding: 50px 15px 35px 15px;
+}
+#box1{
+ background-color: rgb(237, 249, 254);
+}
+#box2{
+    background-color: rgb(248, 231, 234);
+}
+#box3{
+    background-color: rgb(255, 251, 215);
+}
+.Section-banner{
+    margin-bottom: 100px;
+}
+.Section-banner img{
+    width: 100%;
+}
+.don-contribute-sec{
+    margin-bottom: 100PX;
+    display: flex;
+}
+.contribute-item {
+    width: 50%;
+    
+}
+.contribute-item img{
+    width: 70%;
+    
+}
+.contribution-article{
+    padding-left: 30%;
+
+    
+    padding-top: 2%;
+        padding-right: 15%;
+}
+.contribution-article h2{
+    font-size: 35px;
+}
+.contribution-article p{
+    text-align: justify;
+    margin-bottom: 30px;
+    color: gray;
+}
